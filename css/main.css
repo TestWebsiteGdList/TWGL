@@ -5,8 +5,8 @@
     --color-on-background-hover: black;
     --color-primary: #FF000D;
     --color-on-primary: white;
-    --color-error: #FFFFFFF;
-    --color-on-error: black;
+    --color-error: #de0000;
+    --color-on-error: white;
 }
 
 main.dark,
